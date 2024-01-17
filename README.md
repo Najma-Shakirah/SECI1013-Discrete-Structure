@@ -1,6 +1,6 @@
 # SECI1013-Discrete-Structure
 
-<h2>Course sumary</h2>
+<h2>Course summary</h2>
 This course introduces students to the principles and applications of discrete structure in the field of computer science.We learnt set theory, relations and functions to solve computer science problems, analyze and solve problems using recurrence relations and counting methods, apply graph theory and trees in real world problems and use deterministic finite automata finite state machines to model electronic devices and problems.
 
 <h2>Reflection</h2>
